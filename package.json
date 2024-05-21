@@ -1,0 +1,17 @@
+{
+  "name": "testeswaglabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.5",
+    "cucumber": "^6.0.7",
+    "cypress": "^13.8.1"
+  }
+}
